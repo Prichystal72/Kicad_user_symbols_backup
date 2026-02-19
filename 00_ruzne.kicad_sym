@@ -50,30 +50,6 @@
 			)
 		)
 		(symbol "9025AM_0_1"
-			(arc
-				(start 0 16.51)
-				(mid -1.7961 17.2539)
-				(end -2.54 19.05)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 19.05)
-				(mid 1.7961 17.2539)
-				(end 0 16.51)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(polyline
 				(pts
 					(xy 8.89 -2.54) (xy 8.89 19.05) (xy -8.89 19.05) (xy -8.89 -2.54) (xy 8.89 -2.54)
