@@ -3208,7 +3208,7 @@
 						)
 					)
 				)
-				(number "B"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3226,7 +3226,7 @@
 						)
 					)
 				)
-				(number "C"
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3244,7 +3244,7 @@
 						)
 					)
 				)
-				(number "E"
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
